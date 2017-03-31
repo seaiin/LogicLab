@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lab7\absVal.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{401A2C77-659E-4D22-8B80-531C6E0DACEE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -145,8 +148,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
