@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab7\absVal.c" />
+    <ClCompile Include="lab7_5810504540.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{401A2C77-659E-4D22-8B80-531C6E0DACEE}</ProjectGuid>

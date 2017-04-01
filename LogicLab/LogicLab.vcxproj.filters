@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab7\absVal.c">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="lab7_5810504540.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
